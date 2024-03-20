@@ -1,0 +1,37 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOWMYA'S INTRODUCTION</title>
+    <h1>MY INTRODUCTION</h1>
+    <h2>MY PROFILE</h2>
+    <img src="./sowmya.jpg" alt="image" height="350" width="200"><br>
+    <a href="https://stylishak1.github.io/portfolio-site/sowmya.project/index.html">MY PORTIFOLIO</a>
+    <h3>DESCRIPTION:</h3>
+</head>
+<body>
+   <p>My name is <b>sowmya k</b> present persuing final year btech in cvrt college .<br>
+    I completed my shcooling in ZPHS with<b> 9.5% </b>and intermediate in govt pu college  with <b>9.2% </b>in ballari.<br>
+    present iam in hyderabad for coaching purpose.
+    yes this is my short and sweet intro.
+     </p> 
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<h1>SOWMYA</h1>sowmya is always want to be unique
+<h2>ANITHA</h2>anitha is a person who belives in hardwork
+<h3>YASHODA</h3>i think understands what other wants
+<h4>MANJULA</h4>she fullfill my family needs
+<h5>KUMARASWAMY</h5>he provides what is needed to fullfill my needs
+<h6>PUTTAKKA</h6>shi is our stres bruster
+<body>
+    
+</body>
+</html>
